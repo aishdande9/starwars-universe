@@ -1,4 +1,5 @@
 import Landing from "./pages/Landing";
+import Characters from "./pages/Characters";
 import { Routes, Route } from "react-router-dom";
 
 
