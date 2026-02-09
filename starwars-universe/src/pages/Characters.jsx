@@ -117,7 +117,7 @@ function Characters() {
 
               <input
                 className="w-full border rounded-lg px-4 py-2 mb-3"
-                placeholder="Search characters (ex: luke)"
+                placeholder="Search characters"
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
               />
